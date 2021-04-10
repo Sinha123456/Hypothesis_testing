@@ -24,4 +24,8 @@ bonferroni correction = alpha/m, m = no. of test
 
 Hypothesis testing and confidence intervals, these statistical techniques are generally aimed at helping us understand population parameters. 
 
+## License & copyright
+Sinha123456
+
+Licensed under the [MIT License](License)
 
